@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a2fde7c.chunk.css",
+    "main.js": "/static/js/main.dcedaa3c.chunk.js",
+    "main.js.map": "/static/js/main.dcedaa3c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cf9d01f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cf9d01f6.js.map",
+    "static/css/2.755b861b.chunk.css": "/static/css/2.755b861b.chunk.css",
+    "static/js/2.16ba99cc.chunk.js": "/static/js/2.16ba99cc.chunk.js",
+    "static/js/2.16ba99cc.chunk.js.map": "/static/js/2.16ba99cc.chunk.js.map",
+    "static/js/3.f9aa37ea.chunk.js": "/static/js/3.f9aa37ea.chunk.js",
+    "static/js/3.f9aa37ea.chunk.js.map": "/static/js/3.f9aa37ea.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.755b861b.chunk.css.map": "/static/css/2.755b861b.chunk.css.map",
+    "static/css/main.8a2fde7c.chunk.css.map": "/static/css/main.8a2fde7c.chunk.css.map",
+    "static/js/2.16ba99cc.chunk.js.LICENSE.txt": "/static/js/2.16ba99cc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/productsans-thinitalic-webfont.81cf862d.woff",
+    "static/media/aolLogo.c3648283.png": "/static/media/aolLogo.c3648283.png",
+    "static/media/flaticon.css": "/static/media/flaticon.e7b375a2.woff",
+    "static/media/googleFavico.68113a27.ico": "/static/media/googleFavico.68113a27.ico",
+    "static/media/liveArrowLeft.43280e0b.svg": "/static/media/liveArrowLeft.43280e0b.svg",
+    "static/media/liveBG.11d9e3bc.svg": "/static/media/liveBG.11d9e3bc.svg",
+    "static/media/liveFavicon.078aa083.ico": "/static/media/liveFavicon.078aa083.ico",
+    "static/media/liveLogo.564db913.svg": "/static/media/liveLogo.564db913.svg",
+    "static/media/logo.a796ee14.png": "/static/media/logo.a796ee14.png",
+    "static/media/logoSVG.e43437d6.svg": "/static/media/logoSVG.e43437d6.svg",
+    "static/media/index.css": "/static/media/open-sans-vietnamese-400-normal.19701383.woff2",
+    "static/media/yahooFavico.473507ee.ico": "/static/media/yahooFavico.473507ee.ico",
+    "static/media/yahooPasswordHide.c5a27a45.svg": "/static/media/yahooPasswordHide.c5a27a45.svg",
+    "static/media/yahooPasswordShow.21e369bc.svg": "/static/media/yahooPasswordShow.21e369bc.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf9d01f6.js",
+    "static/css/2.755b861b.chunk.css",
+    "static/js/2.16ba99cc.chunk.js",
+    "static/css/main.8a2fde7c.chunk.css",
+    "static/js/main.dcedaa3c.chunk.js"
+  ]
+}
